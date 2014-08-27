@@ -1,3 +1,3 @@
 [stb] - Set of cool libraries
-[][Dglfw] - OpenGL framework
+[glfw] - OpenGL framework
 [imgui] - Light gui framework
