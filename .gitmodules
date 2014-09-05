@@ -22,3 +22,6 @@
 [submodule "lib/nope.c"]
 	path = lib/nope.c
 	url = https://github.com/riolet/nope.c.git
+[submodule "lib/libuv"]
+	path = lib/libuv
+	url = https://github.com/joyent/libuv.git
