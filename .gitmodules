@@ -25,3 +25,18 @@
 [submodule "lib/libuv"]
 	path = lib/libuv
 	url = https://github.com/joyent/libuv.git
+[submodule "lib/glew"]
+	path = lib/glew
+	url = https://github.com/nigels-com/glew.git
+[submodule "lib/glm"]
+	path = lib/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "lib/cimg"]
+	path = lib/cimg
+	url = http://git.code.sf.net/p/cimg/source
+[submodule "lib/oglplus"]
+	path = lib/oglplus
+	url = https://github.com/matus-chochlik/oglplus.git
+[submodule "lib/liquidfun"]
+	path = lib/liquidfun
+	url = https://github.com/google/liquidfun.git
