@@ -40,3 +40,6 @@
 [submodule "lib/liquidfun"]
 	path = lib/liquidfun
 	url = https://github.com/google/liquidfun.git
+[submodule "lib/asio"]
+	path = lib/asio
+	url = git://git.code.sf.net/p/asio/git
